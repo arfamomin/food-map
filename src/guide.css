@@ -1,0 +1,390 @@
+:root {
+
+    /* heading-01 is used for article and page titles on desktop. */
+	--heading_1-size: 40px;             
+	--heading_1-height: 44px;      
+
+    /* heading-02 is used for pull quotes on desktop. */
+	--heading_2-size: 32px;
+	--heading_2-height: 40px;
+
+    /* heading-03 is used for article and page titles on mobile.  */
+	--heading_3-size: 28px;
+	--heading_3-height: 32px;
+
+    /* heading-04 is used for article subheadings on desktop & pull quotes on mobile. */
+	--heading_4-size: 24px;
+	--heading_4-height: 32px;
+
+    /* heading-05 is used for article subheadings on mobile & article titles on the desktop homepage. */
+	--heading_5-size: 20px;
+	--heading_5-height: 24px;
+
+    /* heading-06 is used for article titles on the mobile homepage & titles of in-page cards and modules. */
+	--heading_6-size: 18px;
+	--heading_6-height: 20px;
+
+    /* body-01 is used for article copy on desktop. */
+	--body_1-size: 18px;
+	--body_1-height: 28px;
+
+    /* body-02 is used for article copy on mobile. */
+    --body_2-size: 16px;
+	--body_2-height: 24px;
+
+    /* body-03 is used for captions and other small details. */
+    --body_3-size: 14px;
+	--body_3-height: 20px;
+
+    /* body-04 forreal tiny uses, maybe like source and notes */
+    --body_4-size: 12px;
+	--body_4-height: 16px;
+
+    /*  for overlines, and sometimes the headings of very specific modules */
+    --detail_1-size: 24px;
+	--detail_1-height: 32px;
+
+    --detail_2-size: 18px;
+	--detail_2-height: 24px;
+
+    --detail_3-size: 16px;
+	--detail_3-height: 24px;
+
+    --detail_4-size: 14px;
+	--detail_4-height: 16px;
+
+    --detail_5-size: 12px;
+	--detail_5-height: 16px;
+
+    /* Big Button  */
+    --button_1-size: 16px;
+	--button_1-height: 20px;
+
+    /* Small Button */
+    --button_2-size: 14px;
+	--button_2-height: 16px;
+	
+	--font-family: 'Source Sans Pro', 'Helvetica', 'sans-serif';
+
+
+    /*
+			PRIMARY PALETTE
+			Our primary colors are Aqua and Gold, and these two colors comprise the majority of all color use cases across the website. 
+
+			We useaqua-500 for our primary CTA buttons, as well as links, actions, and all other clickable elements. aqua-600 is the corresponding hover state for all clickable elements.
+
+			All shades of gold are used for embellishments, backgrounds, contrasts, dividers, and other visual UI elements.
+	*/
+	--gold_100: #FFFAF0;
+	--gold_200: #FEF6E5;
+	--gold_300: #FAE6B2;
+	--gold_400: #F2B92E;
+	--gold_500: #ED9E00;
+	--gold_600: #CE7105;
+
+	--aqua_100: #F3F9FA;
+	--aqua_200: #E2F0F3;
+	--aqua_300: #C3F6FE;
+	--aqua_400: #05B9D7;
+	--aqua_500: #0A819F;
+	--aqua_600: #075E73;
+
+
+	/*
+			NEUTRAL PALETTE
+			Neutral grays form the foundation of the design system. Their use cases range from subtle dividers to subheadings, backgrounds, captions, and our main text color. 
+
+			We use grey-100 and grey-200 for secondary and tertiary buttons, and grey-300 is often used as a stroke color for cards, modules, and buttons. 
+
+			We use grey-400 for captions and other metadata text, while grey-500 is used for cards and modules with a dark background (previously onyx).
+
+			Finally, all the copy on our website is in the color grey-600.
+	*/
+	--gray_000: #FFFFFF;
+	--gray_100: #EEEEEE;
+	--gray_200: #DDDDDD;
+	--gray_300: #CCCCCC;
+	--gray_400: #666666;
+	--gray_500: #3D3D3D;
+	--gray_600: #212121;
+
+	/*
+			SECONDARY PALETTE
+			This collection of secondary colors is used almost entirely for charts, graphs, data, alerts, and other miscellaneous use cases. As a political news organization, we consistently have the need for data visualizations, and it’s important that we can display data in a salient and meaningful way. 
+
+			These shades provide additional richness to our graphics and visuals. The tokens are labeled by their saturation and hue from 100 to 500.
+	*/
+
+	--red_100: #FBEFEF;
+	--red_200: #EAAEAE;
+	--red_300: #D86E6E;
+	--red_400: #C13333;
+	--red_500: #711E1E;
+	
+	--green_100: #EAF2E3;
+	--green_200: #C9DFB9;
+	--green_300: #9FCA8B;
+	--green_400: #618D3F;
+	--green_500: #3A5426;
+
+	--blue_100: #DEE8F7;
+	--blue_200: #ACC6EC;
+	--blue_300: #6D9ADD;
+	--blue_400: #2F6BC6;
+	--blue_500: #1B3F74;
+
+	--purple_100: #FCF7FF;
+	--purple_200: #ECE3F1;
+	--purple_300: #C9B3D1;
+	--purple_400: #8D6A9F;
+	--purple_500: #634870;
+
+	/*
+			HEAT MAPS
+			Heat maps are a useful data visualization tool that help illustrate multivariable data, reveal patterns, or display correlations. Heat maps tend to use a graduation of colors based on saturation, hues, or warmth.
+
+			These palettes are created specifically for varied data visualization, and combine multiple hues and saturations. To set them apart from other color sets, they’re named by color theme - desert, ocean, and space.
+	*/
+
+	--desert_100: #FFFBD4;
+	--desert_200: #FED98E;
+	--desert_300: #FE9929;
+	--desert_400: #D95F0E;
+	--desert_500: #993404;
+
+	--ocean_100: #F0F9E8;
+	--ocean_200: #BAE4BC;
+	--ocean_300: #7BCCC4;
+	--ocean_400: #43A2CA;
+	--ocean_500: #0868AC;
+
+	--space_100: #EDF8FB;
+	--space_200: #B3CDE3;
+	--space_300: #8C96C6;
+	--space_400: #8856A7;
+	--space_500: #810F7C;
+
+    /*
+			STATUS PALETTE
+
+			Status indicator colors are useful when presenting different types of notifications to a user. Typically, red or error represents errors or dangerous states, yellow or warning represents warnings, green or success represents success, and blue and purple, or info and note, can be used for passive notifications, such as additional information.
+	*/
+
+	--error_000: #FFF1F1;
+	--error_100: #DA1E28;
+
+	--warning_000: #FFF8E1;
+	--warning_100: #F1C21B;
+
+	--success_000: #DEFBE6;
+	--success_100: #24A148;
+
+	--info_000: #EDF5FF;
+	--info_100: #0043CE;
+
+	--note_000: #EAE6FF;
+	--note_100: #403294;
+
+}
+
+* {
+	box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	color: var(--gray_600);
+}
+
+h1 {
+	font-weight: 700;
+	font-size: var( --heading_1-size );
+	line-height: var( --heading_1-height );
+	font-family: var( --font-family );
+	margin: 0;
+}
+
+@media screen and ( max-width: 767px ){
+	h1 {
+		font-size: var( --heading_3-size );
+		line-height: var( --heading_3-height );
+	}
+}
+
+h2 {
+	font-weight: 600;
+	font-size: var( --heading_2-size );
+	line-height: var( --heading_2-height );
+	font-family: var( --font-family );
+}
+
+@media screen and ( max-width: 767px ){
+	h2 {
+		font-size: var( --heading_4-size );
+		line-height: var( --heading_4-height );
+	}
+}
+
+h3 {
+	font-weight: 700;
+	font-size: var( --heading_3-size );
+	line-height: var( --heading_3-height );
+	font-family: var( --font-family );
+}
+
+h4 {
+	font-weight: 600;
+	font-size: var( --heading_4-size );
+	line-height: var( --heading_4-height );
+	font-family: var( --font-family );
+}
+
+@media screen and ( max-width: 767px ){
+	h4 {
+		font-size: var( --heading_5-size );
+		line-height: var( --heading_5-height );
+	}
+}
+
+h5 {
+	font-weight: 600;
+	font-size: var( --heading_5-size );
+	line-height: var( --heading_5-height );
+	font-family: var( --font-family );
+}
+
+@media screen and ( max-width: 767px ){
+	h5 {
+		font-size: var( --heading_6-size );
+		line-height: var( --heading_6-height );
+	}
+}
+
+h6 {
+	font-weight: 600;
+	font-size: var( --heading_6-size );
+	line-height: var( --heading_6-height );
+	font-family: var( --font-family );
+}
+
+p,
+span,
+div,
+span a {
+	color: var(--gray_600);
+	font-family: var( --font-family );
+}
+
+p {
+	font-weight: 400;
+	font-size: var( --body_2-size );
+	line-height: var( --body_2-height );
+	margin: 0;
+}
+
+@media screen and ( max-width: 767px ){
+	p {
+		font-size: var( --body_2-size );
+		line-height: var( --body_2-height );
+	}
+}
+
+p.small {
+	font-size: var( --body_3-size );
+	line-height: var( --body_3-height );
+}
+
+p.tiny {
+	font-size: var( --body_4-size );
+	line-height: var( --body_4-height );
+}
+
+p.detail_huge {
+	font-size: var( --detail_1-size );
+	line-height: var( --detail_1-height );
+}
+
+p.detail_large {
+	font-size: var( --detail_2-size );
+	line-height: var( --detail_2-height );
+}
+
+p.detail_normal {
+	font-size: var( --detail_3-size );
+	line-height: var( --detail_3-height );
+}
+
+p.detail_small {
+	font-size: var( --detail_4-size );
+	line-height: var( --detail_4-height );
+}
+
+p.detail_tiny {
+	font-size: var( --detail_5-size );
+	line-height: var( --detail_5-height );
+}
+
+text {
+	font-family: var( --font-family );
+}
+
+a {
+	color: var(--aqua_400);
+	cursor: pointer;
+	text-decoration: underline !important;
+}
+
+a:hover {
+	color: var(--aqua_400);
+	text-decoration: underline;
+}
+
+ul {
+	padding: 0.75em 2em 0 2em;
+	list-style-type: square;
+}
+
+li {
+	margin-bottom: 1em;
+	font-size: 1em;
+	line-height: 1.5em;
+	color: var(--gray_600);
+}
+
+button {
+	display: inline-block;
+	padding: 7px 16px;
+	border-radius: 2px;
+	border: none;
+	background-color: var(--aqua_500);
+	transition: 0.1s background-color ease;
+	font-weight: 600;
+	margin-bottom: 12px;
+	font-size: var( --button_2-size );
+	line-height: var( --button_2-height );
+	color: var( --gray_000 );
+	text-transform: none;
+	cursor: pointer;
+}
+
+button:hover,
+button:focus,
+button.active {
+	background-color: var( --aqua_600 );
+}
+
+
+button.large {
+	font-size: var( --button_1-size );
+	line-height: var( --button_1-height );
+}
+
+button.small {
+	font-size: var( --button_2-size );
+	line-height: var( --button_2-height );
+}

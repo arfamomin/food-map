@@ -1,0 +1,12 @@
+[build]
+  command = "export PUBLIC_DEPLOY_PRIME_URL=$DEPLOY_PRIME_URL && npm run build"
+  publish = "build"
+
+[functions]
+  node_bundler = "esbuild"
+  directory    = "api" 
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"

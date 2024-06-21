@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex">
+		<meta name="googlebot" content="noindex">
+		
+		%sveltekit.head%
+
+	</head>
+
+	<!-- Google tag (gtag.js) -->
+	<!-- ID must change in GA when setting up data stream -->
+	<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-22HXBBS3KE"></script> 
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-22HXBBS3KE'); 
+	</script> -->
+
+	<body>
+		<div id="svelte">%sveltekit.body%</div>
+
+		<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+		<script>
+			var pymChild = new pym.Child({
+				polling: 200
+			});
+		</script>
+	</body>
+</html>

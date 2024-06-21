@@ -1,0 +1,244 @@
+* {
+	box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	color: var(--gray_600);
+}
+
+h1 {
+	font-weight: 700;
+	font-size: var( --heading_1-size );
+	line-height: var( --heading_1-height );
+	font-family: var( --font-family );
+	margin: 0;
+}
+
+@media screen and ( max-width: 767px ){
+	h1 {
+		font-size: var( --heading_3-size );
+		line-height: var( --heading_3-height );
+	}
+}
+
+h2 {
+	font-weight: 600;
+	font-size: var( --heading_2-size );
+	line-height: var( --heading_2-height );
+	font-family: var( --font-family );
+	margin: 0;
+
+}
+
+@media screen and ( max-width: 767px ){
+	h2 {
+		font-size: var( --heading_4-size );
+		line-height: var( --heading_4-height );
+	}
+}
+
+h3 {
+	font-weight: 700;
+	font-size: var( --heading_3-size );
+	line-height: var( --heading_3-height );
+	font-family: var( --font-family );
+	margin: 0;
+
+}
+
+h4 {
+	font-weight: 600;
+	font-size: var( --heading_4-size );
+	line-height: var( --heading_4-height );
+	font-family: var( --font-family );
+	margin: 0;
+
+}
+
+@media screen and ( max-width: 767px ){
+	h4 {
+		font-size: var( --heading_5-size );
+		line-height: var( --heading_5-height );
+	}
+}
+
+h5 {
+	font-weight: 600;
+	font-size: var( --heading_5-size );
+	line-height: var( --heading_5-height );
+	font-family: var( --font-family );
+	margin: 0;
+
+}
+
+@media screen and ( max-width: 767px ){
+	h5 {
+		font-size: var( --heading_6-size );
+		line-height: var( --heading_6-height );
+	}
+}
+
+h6 {
+	font-weight: 600;
+	font-size: var( --heading_6-size );
+	line-height: var( --heading_6-height );
+	font-family: var( --font-family );
+	margin: 0;
+
+}
+
+p,
+span,
+div,
+span a {
+	color: var(--gray_600);
+	font-family: var( --font-family );
+}
+
+p {
+	font-weight: 400;
+	font-size: var( --body_1-size );
+	line-height: var( --body_1-height );
+	margin: 0;
+}
+
+@media screen and ( max-width: 767px ){
+	p {
+		font-size: var( --body_2-size );
+		line-height: var( --body_2-height );
+	}
+}
+
+p.small {
+	font-size: var( --body_3-size );
+	line-height: var( --body_3-height );
+}
+
+p.tiny {
+	font-size: var( --body_4-size );
+	line-height: var( --body_4-height );
+}
+
+p.detail_huge {
+	font-size: var( --detail_1-size );
+	line-height: var( --detail_1-height );
+}
+
+p.detail_large {
+	font-size: var( --detail_2-size );
+	line-height: var( --detail_2-height );
+}
+
+p.detail_normal {
+	font-size: var( --detail_3-size );
+	line-height: var( --detail_3-height );
+}
+
+p.detail_small {
+	font-size: var( --detail_4-size );
+	line-height: var( --detail_4-height );
+}
+
+p.detail_tiny {
+	font-size: var( --detail_5-size );
+	line-height: var( --detail_5-height );
+}
+
+button.large {
+	font-size: var( --button_1-size );
+	line-height: var( --button_1-height );
+}
+
+button.small {
+	font-size: var( --button_2-size );
+	line-height: var( --button_2-height );
+}
+
+text {
+	font-family: var( --font-family );
+}
+
+a {
+	color: var(--aqua_400);
+	cursor: pointer;
+	text-decoration: underline !important;
+}
+
+a:hover {
+	color: var(--aqua_400);
+	text-decoration: underline;
+}
+
+ul {
+	padding: 0.75em 2em 0 2em;
+	list-style-type: square;
+}
+
+li {
+	margin-bottom: 1em;
+	font-size: 1em;
+	line-height: 1.5em;
+	color: var(--gray_600);
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: 700;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 0 1em 0;
+	width: 100%;
+	font-size: 14px;
+}
+
+table tr {
+	text-align: left;
+}
+
+table th {
+	vertical-align: bottom;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	line-height: 11px;
+	text-align: left;
+	font-weight: 100;
+}
+
+table td {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	vertical-align: middle;
+	padding: 7px;
+	white-space: nowrap;
+}
+
+select {
+	appearance: none;
+	border-bottom: 3px solid var(--gray_600);
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-radius: 0;
+	background-color: var(--gray_000);
+	font-weight: 400;
+	font-size: 1.375em;
+	text-align: end;
+	padding-right: 1em;
+	background-image: url('data:image/svg+xml,%3C%3Fxml version="1.0" encoding="utf-8"%3F%3E%3C!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0) --%3E%3C!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"%3E%3Csvg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve"%3E%3Cg id="Rounded_Rectangle_33_copy_4_1_"%3E%3Cpath d="M480,344.181L268.869,131.889c-15.756-15.859-41.3-15.859-57.054,0c-15.754,15.857-15.754,41.57,0,57.431l237.632,238.937 c8.395,8.451,19.562,12.254,30.553,11.698c10.993,0.556,22.159-3.247,30.555-11.698l237.631-238.937 c15.756-15.86,15.756-41.571,0-57.431s-41.299-15.859-57.051,0L480,344.181z"/%3E%3C/g%3E%3C/svg%3E%0A');
+	background-repeat: no-repeat, repeat;
+	background-position: right 0.2em top 50%;
+	background-size: 1em auto, 100%;
+}
+
+
