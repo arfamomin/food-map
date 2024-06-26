@@ -1684,59 +1684,59 @@
         ]
     ], "objects": { "cb_2015_california_county_20m": { "type": "GeometryCollection", "geometries": [{ "arcs": [
                     [0, 1, 2, 3, 4, 5]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "115", "COUNTYNS": "00277322", "AFFGEOID": "0500000US06115", "GEOID": "06115", "NAME": "Yuba", "LSAD": "06", "ALAND": 1636983167, "AWATER": 30986706, "LAHALFSHARE": 81.69 } }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "115", "COUNTYNS": "00277322", "AFFGEOID": "0500000US06115", "GEOID": "06115", "NAME": "Yuba", "LSAD": "06", "ALAND": 1636983167, "AWATER": 30986706, "LAHALFSHARE": 81.69, "MEDINCOME": "55,806"  } }, { "arcs": [
                     [6, 7]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "075", "COUNTYNS": "00277302", "AFFGEOID": "0500000US06075", "GEOID": "06075", "NAME": "San Francisco", "LSAD": "06", "ALAND": 121455687, "AWATER": 479135404, "LAHALFSHARE": 9.96 } }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "075", "COUNTYNS": "00277302", "AFFGEOID": "0500000US06075", "GEOID": "06075", "NAME": "San Francisco", "LSAD": "06", "ALAND": 121455687, "AWATER": 479135404, "LAHALFSHARE": 9.96, "MEDINCOME": "132,423" } }, { "arcs": [
                     [8, 9, 10, -2, 11, 12]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "063", "COUNTYNS": "00277296", "AFFGEOID": "0500000US06063", "GEOID": "06063", "NAME": "Plumas", "LSAD": "06", "ALAND": 6612371702, "AWATER": 156389436, "LAHALFSHARE": 73.33 } }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "063", "COUNTYNS": "00277296", "AFFGEOID": "0500000US06063", "GEOID": "06063", "NAME": "Plumas", "LSAD": "06", "ALAND": 6612371702, "AWATER": 156389436, "LAHALFSHARE": 73.33, "MEDINCOME": "70,561"  } }, { "arcs": [
                     [13, 14, 15, 16, 17, 18]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "053", "COUNTYNS": "00277291", "AFFGEOID": "0500000US06053", "GEOID": "06053", "NAME": "Monterey", "LSAD": "06", "ALAND": 8496731189, "AWATER": 1270747397, "LAHALFSHARE": 52.26 } }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "053", "COUNTYNS": "00277291", "AFFGEOID": "0500000US06053", "GEOID": "06053", "NAME": "Monterey", "LSAD": "06", "ALAND": 8496731189, "AWATER": 1270747397, "LAHALFSHARE": 52.26, "MEDINCOME": "80,031" } }, { "arcs": [
                     [19, 20, 21, 22, 23]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "059", "COUNTYNS": "00277294", "AFFGEOID": "0500000US06059", "GEOID": "06059", "NAME": "Orange", "LSAD": "06", "ALAND": 2048156380, "AWATER": 407152512, "LAHALFSHARE": 44.29} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "059", "COUNTYNS": "00277294", "AFFGEOID": "0500000US06059", "GEOID": "06059", "NAME": "Orange", "LSAD": "06", "ALAND": 2048156380, "AWATER": 407152512, "LAHALFSHARE": 44.29, "MEDINCOME": "102,938"} }, { "arcs": [
                     [-12, -1, 24, 25, 26, 27]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "007", "COUNTYNS": "01675842", "AFFGEOID": "0500000US06007", "GEOID": "06007", "NAME": "Butte", "LSAD": "06", "ALAND": 4238422715, "AWATER": 105325812, "LAHALFSHARE": 73.60} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "007", "COUNTYNS": "01675842", "AFFGEOID": "0500000US06007", "GEOID": "06007", "NAME": "Butte", "LSAD": "06", "ALAND": 4238422715, "AWATER": 105325812, "LAHALFSHARE": 73.60, "MEDINCOME": "65,078"} }, { "arcs": [
                     [28, 29, 30, 31, 32, 33]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "001", "COUNTYNS": "01675839", "AFFGEOID": "0500000US06001", "GEOID": "06001", "NAME": "Alameda", "LSAD": "06", "ALAND": 1914240928, "AWATER": 212981785, "LAHALFSHARE": 43.82} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "001", "COUNTYNS": "01675839", "AFFGEOID": "0500000US06001", "GEOID": "06001", "NAME": "Alameda", "LSAD": "06", "ALAND": 1914240928, "AWATER": 212981785, "LAHALFSHARE": 43.82, "MEDINCOME": "112,924"} }, { "arcs": [
                     [34, 35, 36, 37, 38, 39, 40, 41]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "067", "COUNTYNS": "00277298", "AFFGEOID": "0500000US06067", "GEOID": "06067", "NAME": "Sacramento", "LSAD": "06", "ALAND": 2499183604, "AWATER": 76073827, "LAHALFSHARE": 58.16} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "067", "COUNTYNS": "00277298", "AFFGEOID": "0500000US06067", "GEOID": "06067", "NAME": "Sacramento", "LSAD": "06", "ALAND": 2499183604, "AWATER": 76073827, "LAHALFSHARE": 58.16, "MEDINCOME": "78,958"} }, { "arcs": [
                     [42, 43, 44, 45]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "055", "COUNTYNS": "00277292", "AFFGEOID": "0500000US06055", "GEOID": "06055", "NAME": "Napa", "LSAD": "06", "ALAND": 1938262912, "AWATER": 104154062, "LAHALFSHARE": 60.31} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "055", "COUNTYNS": "00277292", "AFFGEOID": "0500000US06055", "GEOID": "06055", "NAME": "Napa", "LSAD": "06", "ALAND": 1938262912, "AWATER": 104154062, "LAHALFSHARE": 60.31, "MEDINCOME": "102,984"} }, { "arcs": [
                     [46, 47, 48, 49]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "049", "COUNTYNS": "00277289", "AFFGEOID": "0500000US06049", "GEOID": "06049", "NAME": "Modoc", "LSAD": "06", "ALAND": 10140841282, "AWATER": 745929084, "LAHALFSHARE": 84.32} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "049", "COUNTYNS": "00277289", "AFFGEOID": "0500000US06049", "GEOID": "06049", "NAME": "Modoc", "LSAD": "06", "ALAND": 10140841282, "AWATER": 745929084, "LAHALFSHARE": 84.32, "MEDINCOME": "56,221"} }, { "arcs": [
                     [50, 51, -14, 52, 53]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "087", "COUNTYNS": "00277308", "AFFGEOID": "0500000US06087", "GEOID": "06087", "NAME": "Santa Cruz", "LSAD": "06", "ALAND": 1152967332, "AWATER": 419570851, "LAHALFSHARE": 59.38} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "087", "COUNTYNS": "00277308", "AFFGEOID": "0500000US06087", "GEOID": "06087", "NAME": "Santa Cruz", "LSAD": "06", "ALAND": 1152967332, "AWATER": 419570851, "LAHALFSHARE": 59.38, "MEDINCOME": "101,838"} }, { "arcs": [
                     [-11, 54, 55, 56, -3]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "091", "COUNTYNS": "00277310", "AFFGEOID": "0500000US06091", "GEOID": "06091", "NAME": "Sierra", "LSAD": "06", "ALAND": 2468686374, "AWATER": 23299110, "LAHALFSHARE": 100} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "091", "COUNTYNS": "00277310", "AFFGEOID": "0500000US06091", "GEOID": "06091", "NAME": "Sierra", "LSAD": "06", "ALAND": 2468686374, "AWATER": 23299110, "LAHALFSHARE": 100, "MEDINCOME": "76,875"} }, { "arcs": [
                     [57, 58, 59, 60, 61]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "023", "COUNTYNS": "01681908", "AFFGEOID": "0500000US06023", "GEOID": "06023", "NAME": "Humboldt", "LSAD": "06", "ALAND": 9241007147, "AWATER": 1254299668, "LAHALFSHARE": 65.35} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "023", "COUNTYNS": "01681908", "AFFGEOID": "0500000US06023", "GEOID": "06023", "NAME": "Humboldt", "LSAD": "06", "ALAND": 9241007147, "AWATER": 1254299668, "LAHALFSHARE": 65.35, "MEDINCOME": "60,769"} }, { "arcs": [
                     [62, -13, -28, 63, 64, 65]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "103", "COUNTYNS": "01692767", "AFFGEOID": "0500000US06103", "GEOID": "06103", "NAME": "Tehama", "LSAD": "06", "ALAND": 7639716445, "AWATER": 32276063, "LAHALFSHARE": 84.68} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "103", "COUNTYNS": "01692767", "AFFGEOID": "0500000US06103", "GEOID": "06103", "NAME": "Tehama", "LSAD": "06", "ALAND": 7639716445, "AWATER": 32276063, "LAHALFSHARE": 84.68, "MEDINCOME": "54,656"} }, { "arcs": [
                     [66, 67, 68, 69, 70, 71]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "051", "COUNTYNS": "00277290", "AFFGEOID": "0500000US06051", "GEOID": "06051", "NAME": "Mono", "LSAD": "06", "ALAND": 7896722400, "AWATER": 214695408, "LAHALFSHARE": 74.51} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "051", "COUNTYNS": "00277290", "AFFGEOID": "0500000US06051", "GEOID": "06051", "NAME": "Mono", "LSAD": "06", "ALAND": 7896722400, "AWATER": 214695408, "LAHALFSHARE": 74.51, "MEDINCOME": "77,545"} }, { "arcs": [
                     [-57, 72, 73, -4]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "057", "COUNTYNS": "01682927", "AFFGEOID": "0500000US06057", "GEOID": "06057", "NAME": "Nevada", "LSAD": "06", "ALAND": 2480638607, "AWATER": 41513172, "LAHALFSHARE": 86.23} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "057", "COUNTYNS": "01682927", "AFFGEOID": "0500000US06057", "GEOID": "06057", "NAME": "Nevada", "LSAD": "06", "ALAND": 2480638607, "AWATER": 41513172, "LAHALFSHARE": 86.23, "MEDINCOME": "84,357"} }, { "arcs": [
                     [74, 75, 76, 77, -17]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "031", "COUNTYNS": "00277280", "AFFGEOID": "0500000US06031", "GEOID": "06031", "NAME": "Kings", "LSAD": "06", "ALAND": 3598582456, "AWATER": 5468555, "LAHALFSHARE": 69.08} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "031", "COUNTYNS": "00277280", "AFFGEOID": "0500000US06031", "GEOID": "06031", "NAME": "Kings", "LSAD": "06", "ALAND": 3598582456, "AWATER": 5468555, "LAHALFSHARE": 69.08, "MEDINCOME": "58,198"} }, { "arcs": [
                     [78, 79, -46, 80, 81, 82, 83]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "097", "COUNTYNS": "01657246", "AFFGEOID": "0500000US06097", "GEOID": "06097", "NAME": "Sonoma", "LSAD": "06", "ALAND": 4081401191, "AWATER": 497545934, "LAHALFSHARE": 59.26} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "097", "COUNTYNS": "01657246", "AFFGEOID": "0500000US06097", "GEOID": "06097", "NAME": "Sonoma", "LSAD": "06", "ALAND": 4081401191, "AWATER": 497545934, "LAHALFSHARE": 59.26, "MEDINCOME": "94,412"} }, { "arcs": [
                     [84, 85, -58, 86]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "015", "COUNTYNS": "01682074", "AFFGEOID": "0500000US06015", "GEOID": "06015", "NAME": "Del Norte", "LSAD": "06", "ALAND": 2606282680, "AWATER": 578761025, "LAHALFSHARE":87.91} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "015", "COUNTYNS": "01682074", "AFFGEOID": "0500000US06015", "GEOID": "06015", "NAME": "Del Norte", "LSAD": "06", "ALAND": 2606282680, "AWATER": 578761025, "LAHALFSHARE":87.91, "MEDINCOME": "51,540"} }, { "arcs": [
                     [-77, 87, 88, 89, 90, 91, 92, 93]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "029", "COUNTYNS": "02054176", "AFFGEOID": "0500000US06029", "GEOID": "06029", "NAME": "Kern", "LSAD": "06", "ALAND": 21061723516, "AWATER": 79488735, "LAHALFSHARE": 62.85} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "029", "COUNTYNS": "02054176", "AFFGEOID": "0500000US06029", "GEOID": "06029", "NAME": "Kern", "LSAD": "06", "ALAND": 21061723516, "AWATER": 79488735, "LAHALFSHARE": 62.85,"MEDINCOME": "59,690"} }, { "arcs": [
                     [94, 95, 96, -67, 97, 98]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "003", "COUNTYNS": "01675840", "AFFGEOID": "0500000US06003", "GEOID": "06003", "NAME": "Alpine", "LSAD": "06", "ALAND": 1912243121, "AWATER": 12557304, "LAHALFSHARE": 100} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "003", "COUNTYNS": "01675840", "AFFGEOID": "0500000US06003", "GEOID": "06003", "NAME": "Alpine", "LSAD": "06", "ALAND": 1912243121, "AWATER": 12557304, "LAHALFSHARE": 100,"MEDINCOME": "82,813"} }, { "arcs": [
                     [-98, -72, 99, 100, 101, 102]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "109", "COUNTYNS": "00277319", "AFFGEOID": "0500000US06109", "GEOID": "06109", "NAME": "Tuolumne", "LSAD": "06", "ALAND": 5752116004, "AWATER": 138684372, "LAHALFSHARE": 90.51} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "109", "COUNTYNS": "00277319", "AFFGEOID": "0500000US06109", "GEOID": "06109", "NAME": "Tuolumne", "LSAD": "06", "ALAND": 5752116004, "AWATER": 138684372, "LAHALFSHARE": 90.51,"MEDINCOME": "68,233"} }, { "arcs": [
                     [103, 104, 105, 106, 107, 108]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "047", "COUNTYNS": "00277288", "AFFGEOID": "0500000US06047", "GEOID": "06047", "NAME": "Merced", "LSAD": "06", "ALAND": 5011540709, "AWATER": 112771056, "LAHALFSHARE": 64.41} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "047", "COUNTYNS": "00277288", "AFFGEOID": "0500000US06047", "GEOID": "06047", "NAME": "Merced", "LSAD": "06", "ALAND": 5011540709, "AWATER": 112771056, "LAHALFSHARE": 64.41,"MEDINCOME": "54,315"} }, { "arcs": [
                     [109, -99, -103, 110, 111]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "009", "COUNTYNS": "01675885", "AFFGEOID": "0500000US06009", "GEOID": "06009", "NAME": "Calaveras", "LSAD": "06", "ALAND": 2641819830, "AWATER": 43808937, "LAHALFSHARE": 87.4} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "009", "COUNTYNS": "01675885", "AFFGEOID": "0500000US06009", "GEOID": "06009", "NAME": "Calaveras", "LSAD": "06", "ALAND": 2641819830, "AWATER": 43808937, "LAHALFSHARE": 87.4,"MEDINCOME": "74,943"} }, { "arcs": [
                     [-40, 112, -112, 113, -30, 114]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "077", "COUNTYNS": "00277303", "AFFGEOID": "0500000US06077", "GEOID": "06077", "NAME": "San Joaquin", "LSAD": "06", "ALAND": 3603647025, "AWATER": 91127543, "LAHALFSHARE": 60.69} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "077", "COUNTYNS": "00277303", "AFFGEOID": "0500000US06077", "GEOID": "06077", "NAME": "San Joaquin", "LSAD": "06", "ALAND": 3603647025, "AWATER": 91127543, "LAHALFSHARE": 60.69,"MEDINCOME": "65,661"} }, { "arcs": [
                     [-114, -111, -102, 115, -104, 116, -31]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "099", "COUNTYNS": "00277314", "AFFGEOID": "0500000US06099", "GEOID": "06099", "NAME": "Stanislaus", "LSAD": "06", "ALAND": 3870867629, "AWATER": 51101821, "LAHALFSHARE": 54.71} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "099", "COUNTYNS": "00277314", "AFFGEOID": "0500000US06099", "GEOID": "06099", "NAME": "Stanislaus", "LSAD": "06", "ALAND": 3870867629, "AWATER": 51101821, "LAHALFSHARE": 54.71,"MEDINCOME": "63,055"} }, { "arcs": [
                     [-25, -6, 117, -36, 118, 119]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "101", "COUNTYNS": "00277315", "AFFGEOID": "0500000US06101", "GEOID": "06101", "NAME": "Sutter", "LSAD": "06", "ALAND": 1560236924, "AWATER": 15745939, "LAHALFSHARE": 73.06} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "101", "COUNTYNS": "00277315", "AFFGEOID": "0500000US06101", "GEOID": "06101", "NAME": "Sutter", "LSAD": "06", "ALAND": 1560236924, "AWATER": 15745939, "LAHALFSHARE": 73.06,"MEDINCOME": "65,823"} }, { "arcs": [
                     [
                         [120, -92, 121, 122]
                     ],
@@ -1746,9 +1746,9 @@
                     [
                         [125]
                     ]
-                ], "type": "MultiPolygon", "properties": { "STATEFP": "06", "COUNTYFP": "111", "COUNTYNS": "00277320", "AFFGEOID": "0500000US06111", "GEOID": "06111", "NAME": "Ventura", "LSAD": "06", "ALAND": 4773381391, "AWATER": 945947791, "LAHALFSHARE": 52.73} }, { "arcs": [
+                ], "type": "MultiPolygon", "properties": { "STATEFP": "06", "COUNTYFP": "111", "COUNTYNS": "00277320", "AFFGEOID": "0500000US06111", "GEOID": "06111", "NAME": "Ventura", "LSAD": "06", "ALAND": 4773381391, "AWATER": 945947791, "LAHALFSHARE": 52.73,"MEDINCOME": "99,332"} }, { "arcs": [
                     [126, -49, 127, -9, -63, 128]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "089", "COUNTYNS": "01682610", "AFFGEOID": "0500000US06089", "GEOID": "06089", "NAME": "Shasta", "LSAD": "06", "ALAND": 9778188572, "AWATER": 186530168, "LAHALFSHARE": 78.16} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "089", "COUNTYNS": "01682610", "AFFGEOID": "0500000US06089", "GEOID": "06089", "NAME": "Shasta", "LSAD": "06", "ALAND": 9778188572, "AWATER": 186530168, "LAHALFSHARE": 78.16,"MEDINCOME": "65,307"} }, { "arcs": [
                     [
                         [-125, 129]
                     ],
@@ -1758,15 +1758,15 @@
                     [
                         [131, -93, -121, 132]
                     ]
-                ], "type": "MultiPolygon", "properties": { "STATEFP": "06", "COUNTYFP": "083", "COUNTYNS": "00277306", "AFFGEOID": "0500000US06083", "GEOID": "06083", "NAME": "Santa Barbara", "LSAD": "06", "ALAND": 7083927512, "AWATER": 2729816973, "LAHALFSHARE": 54.29} }, { "arcs": [
+                ], "type": "MultiPolygon", "properties": { "STATEFP": "06", "COUNTYFP": "083", "COUNTYNS": "00277306", "AFFGEOID": "0500000US06083", "GEOID": "06083", "NAME": "Santa Barbara", "LSAD": "06", "ALAND": 7083927512, "AWATER": 2729816973, "LAHALFSHARE": 54.29,"MEDINCOME": "88,678"} }, { "arcs": [
                     [133, 134, 135, 136, -21]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "065", "COUNTYNS": "00277297", "AFFGEOID": "0500000US06065", "GEOID": "06065", "NAME": "Riverside", "LSAD": "06", "ALAND": 18664463540, "AWATER": 250908223, "LAHALFSHARE": 69.82} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "065", "COUNTYNS": "00277297", "AFFGEOID": "0500000US06065", "GEOID": "06065", "NAME": "Riverside", "LSAD": "06", "ALAND": 18664463540, "AWATER": 250908223, "LAHALFSHARE": 69.82,"MEDINCOME": "73,354"} }, { "arcs": [
                     [-45, 137, -42, 138, 139, -81]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "095", "COUNTYNS": "00277312", "AFFGEOID": "0500000US06095", "GEOID": "06095", "NAME": "Solano", "LSAD": "06", "ALAND": 2128379537, "AWATER": 218647641, "LAHALFSHARE": 59.26} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "095", "COUNTYNS": "00277312", "AFFGEOID": "0500000US06095", "GEOID": "06095", "NAME": "Solano", "LSAD": "06", "ALAND": 2128379537, "AWATER": 218647641, "LAHALFSHARE": 59.26,"MEDINCOME": "86,522"} }, { "arcs": [
                     [-18, -78, -94, -132, 140]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "079", "COUNTYNS": "00277304", "AFFGEOID": "0500000US06079", "GEOID": "06079", "NAME": "San Luis Obispo", "LSAD": "06", "ALAND": 8548549787, "AWATER": 815580311, "LAHALFSHARE": 59.26} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "079", "COUNTYNS": "00277304", "AFFGEOID": "0500000US06079", "GEOID": "06079", "NAME": "San Luis Obispo", "LSAD": "06", "ALAND": 8548549787, "AWATER": 815580311, "LAHALFSHARE": 59.26,"MEDINCOME": "87,755"} }, { "arcs": [
                     [-7, 141, -33, 142, -54, 143]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "081", "COUNTYNS": "00277305", "AFFGEOID": "0500000US06081", "GEOID": "06081", "NAME": "San Mateo", "LSAD": "06", "ALAND": 1161542720, "AWATER": 757525243, "LAHALFSHARE": 38.62} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "081", "COUNTYNS": "00277305", "AFFGEOID": "0500000US06081", "GEOID": "06081", "NAME": "San Mateo", "LSAD": "06", "ALAND": 1161542720, "AWATER": 757525243, "LAHALFSHARE": 38.62,"MEDINCOME": "145,146"} }, { "arcs": [
                     [
                         [144]
                     ],
@@ -1776,50 +1776,50 @@
                     [
                         [-91, 146, -24, 147, -122]
                     ]
-                ], "type": "MultiPolygon", "properties": { "STATEFP": "06", "COUNTYFP": "037", "COUNTYNS": "00277283", "AFFGEOID": "0500000US06037", "GEOID": "06037", "NAME": "Los Angeles", "LSAD": "06", "ALAND": 10510433235, "AWATER": 1794939537, "LAHALFSHARE": 37.65} }, { "arcs": [
+                ], "type": "MultiPolygon", "properties": { "STATEFP": "06", "COUNTYFP": "037", "COUNTYNS": "00277283", "AFFGEOID": "0500000US06037", "GEOID": "06037", "NAME": "Los Angeles", "LSAD": "06", "ALAND": 10510433235, "AWATER": 1794939537, "LAHALFSHARE": 37.65,"MEDINCOME": "79,980"} }, { "arcs": [
                     [-90, 148, 149, -134, -20, -147]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "071", "COUNTYNS": "00277300", "AFFGEOID": "0500000US06071", "GEOID": "06071", "NAME": "San Bernardino", "LSAD": "06", "ALAND": 51947553553, "AWATER": 123844759, "LAHALFSHARE": 65.51} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "071", "COUNTYNS": "00277300", "AFFGEOID": "0500000US06071", "GEOID": "06071", "NAME": "San Bernardino", "LSAD": "06", "ALAND": 51947553553, "AWATER": 123844759, "LAHALFSHARE": 65.51,"MEDINCOME": "67,125"} }, { "arcs": [
                     [150, -26, -120, 151, 152]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "011", "COUNTYNS": "01675902", "AFFGEOID": "0500000US06011", "GEOID": "06011", "NAME": "Colusa", "LSAD": "06", "ALAND": 2980372943, "AWATER": 14581043, "LAHALFSHARE": 71.26} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "011", "COUNTYNS": "01675902", "AFFGEOID": "0500000US06011", "GEOID": "06011", "NAME": "Colusa", "LSAD": "06", "ALAND": 2980372943, "AWATER": 14581043, "LAHALFSHARE": 71.26,"MEDINCOME": "63,739"} }, { "arcs": [
                     [-136, 153, 154]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "025", "COUNTYNS": "00277277", "AFFGEOID": "0500000US06025", "GEOID": "06025", "NAME": "Imperial", "LSAD": "06", "ALAND": 10817378445, "AWATER": 790204917, "LAHALFSHARE": 65.72} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "025", "COUNTYNS": "00277277", "AFFGEOID": "0500000US06025", "GEOID": "06025", "NAME": "Imperial", "LSAD": "06", "ALAND": 10817378445, "AWATER": 790204917, "LAHALFSHARE": 65.72,"MEDINCOME": "53,698"} }, { "arcs": [
                     [155, -153, 156, -43, -80, 157]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "033", "COUNTYNS": "00277281", "AFFGEOID": "0500000US06033", "GEOID": "06033", "NAME": "Lake", "LSAD": "06", "ALAND": 3254288304, "AWATER": 188912510, "LAHALFSHARE": 79.74} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "033", "COUNTYNS": "00277281", "AFFGEOID": "0500000US06033", "GEOID": "06033", "NAME": "Lake", "LSAD": "06", "ALAND": 3254288304, "AWATER": 188912510, "LAHALFSHARE": 79.74,"MEDINCOME": "54,644"} }, { "arcs": [
                     [158, -100, -71, 159, -106]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "039", "COUNTYNS": "00277284", "AFFGEOID": "0500000US06039", "GEOID": "06039", "NAME": "Madera", "LSAD": "06", "ALAND": 5535058332, "AWATER": 41957139, "LAHALFSHARE": 77.59} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "039", "COUNTYNS": "00277284", "AFFGEOID": "0500000US06039", "GEOID": "06039", "NAME": "Madera", "LSAD": "06", "ALAND": 5535058332, "AWATER": 41957139, "LAHALFSHARE": 77.59,"MEDINCOME": "58,921"} }, { "arcs": [
                     [160, -88, -76, 161]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "107", "COUNTYNS": "00277318", "AFFGEOID": "0500000US06107", "GEOID": "06107", "NAME": "Tulare", "LSAD": "06", "ALAND": 12494776875, "AWATER": 37391591, "LAHALFSHARE": 61.61} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "107", "COUNTYNS": "00277318", "AFFGEOID": "0500000US06107", "GEOID": "06107", "NAME": "Tulare", "LSAD": "06", "ALAND": 12494776875, "AWATER": 37391591, "LAHALFSHARE": 61.61,"MEDINCOME": "51,672"} }, { "arcs": [
                     [-32, -117, -109, 162, -51, -143]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "085", "COUNTYNS": "00277307", "AFFGEOID": "0500000US06085", "GEOID": "06085", "NAME": "Santa Clara", "LSAD": "06", "ALAND": 3341645574, "AWATER": 35831344, "LAHALFSHARE": 44.4} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "085", "COUNTYNS": "00277307", "AFFGEOID": "0500000US06085", "GEOID": "06085", "NAME": "Santa Clara", "LSAD": "06", "ALAND": 3341645574, "AWATER": 35831344, "LAHALFSHARE": 44.4,"MEDINCOME": "101,838"} }, { "arcs": [
                     [163, -95, -110, -113, -39]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "005", "COUNTYNS": "01675841", "AFFGEOID": "0500000US06005", "GEOID": "06005", "NAME": "Amador", "LSAD": "06", "ALAND": 1539947599, "AWATER": 29470568, "LAHALFSHARE": 86.65} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "005", "COUNTYNS": "01675841", "AFFGEOID": "0500000US06005", "GEOID": "06005", "NAME": "Amador", "LSAD": "06", "ALAND": 1539947599, "AWATER": 29470568, "LAHALFSHARE": 86.65,"MEDINCOME": "74,668"} }, { "arcs": [
                     [-139, -41, -115, -29, 164]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "013", "COUNTYNS": "01675903", "AFFGEOID": "0500000US06013", "GEOID": "06013", "NAME": "Contra Costa", "LSAD": "06", "ALAND": 1871895181, "AWATER": 209854843, "LAHALFSHARE":62.04} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "013", "COUNTYNS": "01675903", "AFFGEOID": "0500000US06013", "GEOID": "06013", "NAME": "Contra Costa", "LSAD": "06", "ALAND": 1871895181, "AWATER": 209854843, "LAHALFSHARE":62.04,"MEDINCOME": "116,054"} }, { "arcs": [
                     [-69, 165, -149, -89, -161, 166]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "027", "COUNTYNS": "01804637", "AFFGEOID": "0500000US06027", "GEOID": "06027", "NAME": "Inyo", "LSAD": "06", "ALAND": 26368485935, "AWATER": 119089390, "LAHALFSHARE": 68.76} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "027", "COUNTYNS": "01804637", "AFFGEOID": "0500000US06027", "GEOID": "06027", "NAME": "Inyo", "LSAD": "06", "ALAND": 26368485935, "AWATER": 119089390, "LAHALFSHARE": 68.76,"MEDINCOME": "74,353"} }, { "arcs": [
                     [-5, -74, 167, 168, -37, -118]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "061", "COUNTYNS": "00277295", "AFFGEOID": "0500000US06061", "GEOID": "06061", "NAME": "Placer", "LSAD": "06", "ALAND": 3644332280, "AWATER": 246390570, "LAHALFSHARE":73.55} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "061", "COUNTYNS": "00277295", "AFFGEOID": "0500000US06061", "GEOID": "06061", "NAME": "Placer", "LSAD": "06", "ALAND": 3644332280, "AWATER": 246390570, "LAHALFSHARE":73.55,"MEDINCOME": "101,895"} }, { "arcs": [
                     [-83, 169]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "041", "COUNTYNS": "00277285", "AFFGEOID": "0500000US06041", "GEOID": "06041", "NAME": "Marin", "LSAD": "06", "ALAND": 1348069363, "AWATER": 796944863, "LAHALFSHARE": 50.57} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "041", "COUNTYNS": "00277285", "AFFGEOID": "0500000US06041", "GEOID": "06041", "NAME": "Marin", "LSAD": "06", "ALAND": 1348069363, "AWATER": 796944863, "LAHALFSHARE": 50.57,"MEDINCOME": "152,116"} }, { "arcs": [
                     [-48, 170, -55, -10, -128]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "035", "COUNTYNS": "01693324", "AFFGEOID": "0500000US06035", "GEOID": "06035", "NAME": "Lassen", "LSAD": "06", "ALAND": 11761620852, "AWATER": 463438654, "LAHALFSHARE":87.66 } }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "035", "COUNTYNS": "01693324", "AFFGEOID": "0500000US06035", "GEOID": "06035", "NAME": "Lassen", "LSAD": "06", "ALAND": 11761620852, "AWATER": 463438654, "LAHALFSHARE":87.66 ,"MEDINCOME": "64,826"} }, { "arcs": [
                     [-159, -105, -116, -101]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "043", "COUNTYNS": "00277286", "AFFGEOID": "0500000US06043", "GEOID": "06043", "NAME": "Mariposa", "LSAD": "06", "ALAND": 3752425654, "AWATER": 36268135, "LAHALFSHARE": 94.61} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "043", "COUNTYNS": "00277286", "AFFGEOID": "0500000US06043", "GEOID": "06043", "NAME": "Mariposa", "LSAD": "06", "ALAND": 3752425654, "AWATER": 36268135, "LAHALFSHARE": 94.61,"MEDINCOME": "67,173"} }, { "arcs": [
                     [-160, -70, -167, -162, -75, -16, 171, -107]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "019", "COUNTYNS": "00277274", "AFFGEOID": "0500000US06019", "GEOID": "06019", "NAME": "Fresno", "LSAD": "06", "ALAND": 15433278958, "AWATER": 135402551, "LAHALFSHARE": 59.93} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "019", "COUNTYNS": "00277274", "AFFGEOID": "0500000US06019", "GEOID": "06019", "NAME": "Fresno", "LSAD": "06", "ALAND": 15433278958, "AWATER": 135402551, "LAHALFSHARE": 59.93,"MEDINCOME": "61,192"} }, { "arcs": [
                     [-61, 172, -65, 173, -158, -79, 174]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "045", "COUNTYNS": "00277287", "AFFGEOID": "0500000US06045", "GEOID": "06045", "NAME": "Mendocino", "LSAD": "06", "ALAND": 9081415725, "AWATER": 962953346, "LAHALFSHARE": 67.01} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "045", "COUNTYNS": "00277287", "AFFGEOID": "0500000US06045", "GEOID": "06045", "NAME": "Mendocino", "LSAD": "06", "ALAND": 9081415725, "AWATER": 962953346, "LAHALFSHARE": 67.01,"MEDINCOME": "62,771"} }, { "arcs": [
                     [-64, -27, -151, -156, -174]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "021", "COUNTYNS": "00277275", "AFFGEOID": "0500000US06021", "GEOID": "06021", "NAME": "Glenn", "LSAD": "06", "ALAND": 3403106647, "AWATER": 33749275, "LAHALFSHARE": 75.78} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "021", "COUNTYNS": "00277275", "AFFGEOID": "0500000US06021", "GEOID": "06021", "NAME": "Glenn", "LSAD": "06", "ALAND": 3403106647, "AWATER": 33749275, "LAHALFSHARE": 75.78,"MEDINCOME": "58,636"} }, { "arcs": [
                     [-22, -137, -155, 175]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "073", "COUNTYNS": "00277301", "AFFGEOID": "0500000US06073", "GEOID": "06073", "NAME": "San Diego", "LSAD": "06", "ALAND": 10895227071, "AWATER": 826282961, "LAHALFSHARE": 53.9} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "073", "COUNTYNS": "00277301", "AFFGEOID": "0500000US06073", "GEOID": "06073", "NAME": "San Diego", "LSAD": "06", "ALAND": 10895227071, "AWATER": 826282961, "LAHALFSHARE": 53.9,"MEDINCOME": "90,171"} }, { "arcs": [
                     [176, -50, -127, 177, -59, -86]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "093", "COUNTYNS": "00277311", "AFFGEOID": "0500000US06093", "GEOID": "06093", "NAME": "Siskiyou", "LSAD": "06", "ALAND": 16259635638, "AWATER": 179864756, "LAHALFSHARE": 81.07} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "093", "COUNTYNS": "00277311", "AFFGEOID": "0500000US06093", "GEOID": "06093", "NAME": "Siskiyou", "LSAD": "06", "ALAND": 16259635638, "AWATER": 179864756, "LAHALFSHARE": 81.07,"MEDINCOME": "50,922"} }, { "arcs": [
                     [-152, -119, -35, -138, -44, -157]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "113", "COUNTYNS": "00277321", "AFFGEOID": "0500000US06113", "GEOID": "06113", "NAME": "Yolo", "LSAD": "06", "ALAND": 2628233324, "AWATER": 22752821, "LAHALFSHARE": 47.05} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "113", "COUNTYNS": "00277321", "AFFGEOID": "0500000US06113", "GEOID": "06113", "NAME": "Yolo", "LSAD": "06", "ALAND": 2628233324, "AWATER": 22752821, "LAHALFSHARE": 47.05,"MEDINCOME": "96,028"} }, { "arcs": [
                     [-169, 178, -96, -164, -38]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "017", "COUNTYNS": "00277273", "AFFGEOID": "0500000US06017", "GEOID": "06017", "NAME": "El Dorado", "LSAD": "06", "ALAND": 4423442340, "AWATER": 203356517, "LAHALFSHARE": 87.07} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "017", "COUNTYNS": "00277273", "AFFGEOID": "0500000US06017", "GEOID": "06017", "NAME": "El Dorado", "LSAD": "06", "ALAND": 4423442340, "AWATER": 203356517, "LAHALFSHARE": 87.07,"MEDINCOME": "97,864"} }, { "arcs": [
                     [-52, -163, -108, -172, -15]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "069", "COUNTYNS": "00277299", "AFFGEOID": "0500000US06069", "GEOID": "06069", "NAME": "San Benito", "LSAD": "06", "ALAND": 3596741869, "AWATER": 4555000, "LAHALFSHARE": 62.1} }, { "arcs": [
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "069", "COUNTYNS": "00277299", "AFFGEOID": "0500000US06069", "GEOID": "06069", "NAME": "San Benito", "LSAD": "06", "ALAND": 3596741869, "AWATER": 4555000, "LAHALFSHARE": 62.1,"MEDINCOME": "89,452"} }, { "arcs": [
                     [-178, -129, -66, -173, -60]
-                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "105", "COUNTYNS": "00277317", "AFFGEOID": "0500000US06105", "GEOID": "06105", "NAME": "Trinity", "LSAD": "06", "ALAND": 8234308182, "AWATER": 73407949, "LAHALFSHARE": 90.75} }] } } }
+                ], "type": "Polygon", "properties": { "STATEFP": "06", "COUNTYFP": "105", "COUNTYNS": "00277317", "AFFGEOID": "0500000US06105", "GEOID": "06105", "NAME": "Trinity", "LSAD": "06", "ALAND": 8234308182, "AWATER": 73407949, "LAHALFSHARE": 90.75,"MEDINCOME": "49,559"} }] } } }

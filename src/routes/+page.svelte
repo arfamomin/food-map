@@ -147,8 +147,9 @@
 				{ fill: '#edf8fb', value: '80-100%' },
 			]}
 			tooltip={(county) => {
-					const { NAME,LAHALFSHARE } = county.properties;
-					return `<b>${NAME}</b><p> ${LAHALFSHARE}% of people have adequate access to a grocery store.</p>`;
+					const { NAME,LAHALFSHARE,MEDINCOME } = county.properties;
+					return `<b>${NAME}</b><p> ${LAHALFSHARE}% of people have adequate access to a grocery store.</p><br>
+<p>The median income in ${NAME} County is $${MEDINCOME}.</p>`;
 				}}
 			/>
 
