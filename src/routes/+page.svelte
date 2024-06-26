@@ -132,19 +132,19 @@
 				fill={(county) => {
 				const LAHALFSHARE = county.properties.LAHALFSHARE;
 
-				if (LAHALFSHARE >= 0 && LAHALFSHARE < 20) return '#993404';
-				else if (LAHALFSHARE >= 20 && LAHALFSHARE < 40) return '#D95F0E';
-				else if (LAHALFSHARE >= 40 && LAHALFSHARE < 60) return '#FE9929';
-				else if (LAHALFSHARE >= 60 && LAHALFSHARE < 80) return '#FED98E';
-				else if (LAHALFSHARE >= 80 && LAHALFSHARE <= 100) return '#FFFBD4';
-				else return '#ebebeb'; // default color for counties outside defined ranges
+				if (LAHALFSHARE >= 0 && LAHALFSHARE < 20) return '#006d2c';
+				else if (LAHALFSHARE >= 20 && LAHALFSHARE < 40) return '#2ca25f';
+				else if (LAHALFSHARE >= 40 && LAHALFSHARE < 60) return '#66c2a4';
+				else if (LAHALFSHARE >= 60 && LAHALFSHARE < 80) return '#b2e2e2';
+				else if (LAHALFSHARE >= 80 && LAHALFSHARE <= 100) return '#edf8fb';
+				else return '#FFFFFF'; // default color for counties outside defined ranges
 			}}
 			legendSteps={[
-				{ fill: '#993404', value: '0-20%' },
-				{ fill: '#D95F0E', value: '20-40%' },
-				{ fill: '#FE9929', value: '40-60%' },
-				{ fill: '#FED98E', value: '60-80%' },
-				{ fill: '#FFFBD4', value: '80-100%' },
+				{ fill: '#006d2c', value: '0-20%' },
+				{ fill: '#2ca25f', value: '20-40%' },
+				{ fill: '#66c2a4', value: '40-60%' },
+				{ fill: '#b2e2e2', value: '60-80%' },
+				{ fill: '#edf8fb', value: '80-100%' },
 			]}
 			tooltip={(county) => {
 					const { NAME,LAHALFSHARE } = county.properties;
